@@ -1,0 +1,9 @@
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionLibrary\bin\Debug\netcoreapp3.1\ExceptionLibrary.deps.json
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionLibrary\bin\Debug\netcoreapp3.1\ExceptionLibrary.dll
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionLibrary\bin\Debug\netcoreapp3.1\ExceptionLibrary.pdb
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionLibrary\obj\Debug\netcoreapp3.1\ExceptionLibrary.AssemblyInfoInputs.cache
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionLibrary\obj\Debug\netcoreapp3.1\ExceptionLibrary.AssemblyInfo.cs
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionLibrary\obj\Debug\netcoreapp3.1\ExceptionLibrary.csproj.CoreCompileInputs.cache
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionLibrary\obj\Debug\netcoreapp3.1\ExceptionLibrary.dll
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionLibrary\obj\Debug\netcoreapp3.1\ExceptionLibrary.pdb
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionLibrary\obj\Debug\netcoreapp3.1\ExceptionLibrary.csprojAssemblyReference.cache

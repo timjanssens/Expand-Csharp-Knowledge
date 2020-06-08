@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionsConsoleAppTimCorey", "ExceptionsConsoleAppTimCorey\ExceptionsConsoleAppTimCorey.csproj", "{AF710103-4B62-47F8-A1FB-B71A13DCF738}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionLibrary", "ExceptionLibrary\ExceptionLibrary.csproj", "{4C9D34CF-C035-40BA-A144-E0A8B11F5622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF710103-4B62-47F8-A1FB-B71A13DCF738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF710103-4B62-47F8-A1FB-B71A13DCF738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF710103-4B62-47F8-A1FB-B71A13DCF738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF710103-4B62-47F8-A1FB-B71A13DCF738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C9D34CF-C035-40BA-A144-E0A8B11F5622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C9D34CF-C035-40BA-A144-E0A8B11F5622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C9D34CF-C035-40BA-A144-E0A8B11F5622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C9D34CF-C035-40BA-A144-E0A8B11F5622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F25E104-6DC2-4C38-85E2-46A3E3359F1D}
+	EndGlobalSection
+EndGlobal

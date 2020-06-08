@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExceptionsConsoleAppTimCorey/1.0.0": {
+        "dependencies": {
+          "ExceptionLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ExceptionsConsoleAppTimCorey.dll": {}
+        }
+      },
+      "ExceptionLibrary/1.0.0": {
+        "runtime": {
+          "ExceptionLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExceptionsConsoleAppTimCorey/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExceptionLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

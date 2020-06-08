@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yju6BudRwNURo0Cfogqwe655i5ChBDwIYMrWZGOzZCjNb8LHlArEc96XCx+OBB7+QCFPnSrC8wugYN/g+Tf2WA==",
+  "success": true,
+  "projectFilePath": "D:\\Coding\\C# Expand\\Exceptions\\Exceptions\\ExceptionsConsoleAppTimCorey\\ExceptionsConsoleAppTimCorey.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

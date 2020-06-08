@@ -1,0 +1,16 @@
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\bin\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.exe
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\bin\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.deps.json
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\bin\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.runtimeconfig.json
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\bin\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.runtimeconfig.dev.json
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\bin\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.dll
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\bin\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.pdb
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\bin\Debug\netcoreapp3.1\ExceptionLibrary.dll
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\bin\Debug\netcoreapp3.1\ExceptionLibrary.pdb
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\obj\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.csprojAssemblyReference.cache
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\obj\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.AssemblyInfoInputs.cache
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\obj\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.AssemblyInfo.cs
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\obj\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.csproj.CoreCompileInputs.cache
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\obj\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.csproj.CopyComplete
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\obj\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.dll
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\obj\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.pdb
+D:\Coding\C# Expand\Exceptions\Exceptions\ExceptionsConsoleAppTimCorey\obj\Debug\netcoreapp3.1\ExceptionsConsoleAppTimCorey.genruntimeconfig.cache
