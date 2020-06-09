@@ -22,7 +22,7 @@ namespace H9._2PrimeNumbers
                 Console.WriteLine(ex.Message);
                 Console.WriteLine(ex.StackTrace);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 Console.WriteLine("Error");
             }

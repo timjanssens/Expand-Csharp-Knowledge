@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H9.1CalculateBMI", "H9.1Cal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H9.2PrimeNumbers", "H9.2PrimeNumbers\H9.2PrimeNumbers.csproj", "{3E681AF0-F586-487F-8F8F-DF1AA84C7787}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H9.3Division", "H9.3Division\H9.3Division.csproj", "{A0E6439E-44A5-4225-915D-F0B5B994E543}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3E681AF0-F586-487F-8F8F-DF1AA84C7787}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E681AF0-F586-487F-8F8F-DF1AA84C7787}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E681AF0-F586-487F-8F8F-DF1AA84C7787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E6439E-44A5-4225-915D-F0B5B994E543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E6439E-44A5-4225-915D-F0B5B994E543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E6439E-44A5-4225-915D-F0B5B994E543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E6439E-44A5-4225-915D-F0B5B994E543}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
