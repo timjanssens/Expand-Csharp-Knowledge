@@ -1,0 +1,13 @@
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\bin\Debug\netcoreapp3.1\H9.3Division.exe
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\bin\Debug\netcoreapp3.1\H9.3Division.deps.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\bin\Debug\netcoreapp3.1\H9.3Division.runtimeconfig.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\bin\Debug\netcoreapp3.1\H9.3Division.runtimeconfig.dev.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\bin\Debug\netcoreapp3.1\H9.3Division.dll
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\bin\Debug\netcoreapp3.1\H9.3Division.pdb
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\obj\Debug\netcoreapp3.1\H9.3Division.csprojAssemblyReference.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\obj\Debug\netcoreapp3.1\H9.3Division.AssemblyInfoInputs.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\obj\Debug\netcoreapp3.1\H9.3Division.AssemblyInfo.cs
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\obj\Debug\netcoreapp3.1\H9.3Division.csproj.CoreCompileInputs.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\obj\Debug\netcoreapp3.1\H9.3Division.dll
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\obj\Debug\netcoreapp3.1\H9.3Division.pdb
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.3Division\obj\Debug\netcoreapp3.1\H9.3Division.genruntimeconfig.cache
