@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H9.1CalculateBMI", "H9.1CalculateBMI\H9.1CalculateBMI.csproj", "{B8FEDAD5-DCFC-4F7E-85BB-71CF6BD99226}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H9.2PrimeNumbers", "H9.2PrimeNumbers\H9.2PrimeNumbers.csproj", "{3E681AF0-F586-487F-8F8F-DF1AA84C7787}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FEDAD5-DCFC-4F7E-85BB-71CF6BD99226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FEDAD5-DCFC-4F7E-85BB-71CF6BD99226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8FEDAD5-DCFC-4F7E-85BB-71CF6BD99226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8FEDAD5-DCFC-4F7E-85BB-71CF6BD99226}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E681AF0-F586-487F-8F8F-DF1AA84C7787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E681AF0-F586-487F-8F8F-DF1AA84C7787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E681AF0-F586-487F-8F8F-DF1AA84C7787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E681AF0-F586-487F-8F8F-DF1AA84C7787}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {372F5E2B-60D2-46D5-8D69-E36977DD3493}
+	EndGlobalSection
+EndGlobal

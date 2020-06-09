@@ -1,0 +1,13 @@
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\bin\Debug\netcoreapp3.1\H9.2PrimeNumbers.exe
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\bin\Debug\netcoreapp3.1\H9.2PrimeNumbers.deps.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\bin\Debug\netcoreapp3.1\H9.2PrimeNumbers.runtimeconfig.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\bin\Debug\netcoreapp3.1\H9.2PrimeNumbers.runtimeconfig.dev.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\bin\Debug\netcoreapp3.1\H9.2PrimeNumbers.dll
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\bin\Debug\netcoreapp3.1\H9.2PrimeNumbers.pdb
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\obj\Debug\netcoreapp3.1\H9.2PrimeNumbers.csprojAssemblyReference.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\obj\Debug\netcoreapp3.1\H9.2PrimeNumbers.AssemblyInfoInputs.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\obj\Debug\netcoreapp3.1\H9.2PrimeNumbers.AssemblyInfo.cs
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\obj\Debug\netcoreapp3.1\H9.2PrimeNumbers.csproj.CoreCompileInputs.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\obj\Debug\netcoreapp3.1\H9.2PrimeNumbers.dll
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\obj\Debug\netcoreapp3.1\H9.2PrimeNumbers.pdb
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.2PrimeNumbers\obj\Debug\netcoreapp3.1\H9.2PrimeNumbers.genruntimeconfig.cache

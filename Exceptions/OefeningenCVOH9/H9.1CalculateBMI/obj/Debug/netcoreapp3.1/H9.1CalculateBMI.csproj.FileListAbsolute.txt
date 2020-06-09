@@ -1,0 +1,12 @@
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.1CalculateBMI\bin\Debug\netcoreapp3.1\H9.1CalculateBMI.exe
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.1CalculateBMI\bin\Debug\netcoreapp3.1\H9.1CalculateBMI.deps.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.1CalculateBMI\bin\Debug\netcoreapp3.1\H9.1CalculateBMI.runtimeconfig.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.1CalculateBMI\bin\Debug\netcoreapp3.1\H9.1CalculateBMI.runtimeconfig.dev.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.1CalculateBMI\bin\Debug\netcoreapp3.1\H9.1CalculateBMI.dll
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.1CalculateBMI\bin\Debug\netcoreapp3.1\H9.1CalculateBMI.pdb
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.1CalculateBMI\obj\Debug\netcoreapp3.1\H9.1CalculateBMI.AssemblyInfoInputs.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.1CalculateBMI\obj\Debug\netcoreapp3.1\H9.1CalculateBMI.AssemblyInfo.cs
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.1CalculateBMI\obj\Debug\netcoreapp3.1\H9.1CalculateBMI.csproj.CoreCompileInputs.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.1CalculateBMI\obj\Debug\netcoreapp3.1\H9.1CalculateBMI.dll
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.1CalculateBMI\obj\Debug\netcoreapp3.1\H9.1CalculateBMI.pdb
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.1CalculateBMI\obj\Debug\netcoreapp3.1\H9.1CalculateBMI.genruntimeconfig.cache
