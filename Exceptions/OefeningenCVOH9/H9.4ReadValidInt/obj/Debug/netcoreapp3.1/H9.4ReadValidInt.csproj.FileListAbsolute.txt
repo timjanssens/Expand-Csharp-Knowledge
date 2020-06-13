@@ -1,0 +1,13 @@
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\bin\Debug\netcoreapp3.1\H9.4ReadValidInt.exe
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\bin\Debug\netcoreapp3.1\H9.4ReadValidInt.deps.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\bin\Debug\netcoreapp3.1\H9.4ReadValidInt.runtimeconfig.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\bin\Debug\netcoreapp3.1\H9.4ReadValidInt.runtimeconfig.dev.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\bin\Debug\netcoreapp3.1\H9.4ReadValidInt.dll
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\bin\Debug\netcoreapp3.1\H9.4ReadValidInt.pdb
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\obj\Debug\netcoreapp3.1\H9.4ReadValidInt.csprojAssemblyReference.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\obj\Debug\netcoreapp3.1\H9.4ReadValidInt.AssemblyInfoInputs.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\obj\Debug\netcoreapp3.1\H9.4ReadValidInt.AssemblyInfo.cs
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\obj\Debug\netcoreapp3.1\H9.4ReadValidInt.csproj.CoreCompileInputs.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\obj\Debug\netcoreapp3.1\H9.4ReadValidInt.dll
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\obj\Debug\netcoreapp3.1\H9.4ReadValidInt.pdb
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.4ReadValidInt\obj\Debug\netcoreapp3.1\H9.4ReadValidInt.genruntimeconfig.cache
