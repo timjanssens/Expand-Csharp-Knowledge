@@ -1,0 +1,13 @@
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\bin\Debug\netcoreapp3.1\H9.5ShowDigits.exe
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\bin\Debug\netcoreapp3.1\H9.5ShowDigits.deps.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\bin\Debug\netcoreapp3.1\H9.5ShowDigits.runtimeconfig.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\bin\Debug\netcoreapp3.1\H9.5ShowDigits.runtimeconfig.dev.json
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\bin\Debug\netcoreapp3.1\H9.5ShowDigits.dll
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\bin\Debug\netcoreapp3.1\H9.5ShowDigits.pdb
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\obj\Debug\netcoreapp3.1\H9.5ShowDigits.csprojAssemblyReference.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\obj\Debug\netcoreapp3.1\H9.5ShowDigits.AssemblyInfoInputs.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\obj\Debug\netcoreapp3.1\H9.5ShowDigits.AssemblyInfo.cs
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\obj\Debug\netcoreapp3.1\H9.5ShowDigits.csproj.CoreCompileInputs.cache
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\obj\Debug\netcoreapp3.1\H9.5ShowDigits.dll
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\obj\Debug\netcoreapp3.1\H9.5ShowDigits.pdb
+D:\Coding\C# Expand\Exceptions\OefeningenCVOH9\H9.5ShowDigits\obj\Debug\netcoreapp3.1\H9.5ShowDigits.genruntimeconfig.cache

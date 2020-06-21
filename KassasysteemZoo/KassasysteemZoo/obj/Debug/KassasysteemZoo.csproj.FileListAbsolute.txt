@@ -1,0 +1,15 @@
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\bin\Debug\KassasysteemZoo.exe.config
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\bin\Debug\KassasysteemZoo.exe
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\bin\Debug\KassasysteemZoo.pdb
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\obj\Debug\KassasysteemZoo.csprojAssemblyReference.cache
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\obj\Debug\MainWindow.g.cs
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\obj\Debug\App.g.cs
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\obj\Debug\KassasysteemZoo_MarkupCompile.cache
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\obj\Debug\KassasysteemZoo_MarkupCompile.lref
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\obj\Debug\MainWindow.baml
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\obj\Debug\KassasysteemZoo.g.resources
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\obj\Debug\KassasysteemZoo.Properties.Resources.resources
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\obj\Debug\KassasysteemZoo.csproj.GenerateResource.cache
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\obj\Debug\KassasysteemZoo.csproj.CoreCompileInputs.cache
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\obj\Debug\KassasysteemZoo.exe
+D:\Coding\C# Expand\KassasysteemZoo\KassasysteemZoo\obj\Debug\KassasysteemZoo.pdb
