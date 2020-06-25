@@ -37,6 +37,10 @@
         <TextBox x:Name="txtCandy" HorizontalAlignment="Left" Height="23" Margin="615,250,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50" BorderBrush="{x:Null}"/>
         <Label Content="Fries" HorizontalAlignment="Left" Margin="525,285,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="txtFries" HorizontalAlignment="Left" Height="23" Margin="615,285,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50" BorderBrush="{x:Null}"/>
+        <Label Content="Total Maps" HorizontalAlignment="Left" Margin="525,320,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtMaps" HorizontalAlignment="Left" Height="23" Margin="615,320,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50" BorderBrush="{x:Null}"/>
+        <Label Content="GRAND TOTAL" HorizontalAlignment="Left" Margin="525,390,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtGrandTotal" HorizontalAlignment="Left" Height="23" Margin="615,390,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="50" BorderBrush="{x:Null}" Background="Yellow"/>
         <Button x:Name="btnClose" Content="Close" HorizontalAlignment="Left" Margin="582,425,0,0" VerticalAlignment="Top" Width="125" Height="27" Click="btnClose_Click"/>
 
 

@@ -36,7 +36,13 @@ namespace KassasysteemZoo
         int candyCount = 0;
         int friesCount = 0;
         double priceWholeGroup = 0;
-        double discount = 0;
+        double discountTotal = 0;
+        double discountChild = 0;
+        double discountAdult = 0;
+        double grandTotal = 0;
+        decimal maps = 0;
+        double grandTotalHelp = 0;
+
 
         
         public MainWindow()
@@ -86,16 +92,18 @@ namespace KassasysteemZoo
 
                 //calculate discount
                 if (childCount >= 5)
-                    discount = priceWholeGroup * 0.1;
+                    discountChild = (childCount * PriceChild) * 0.1;
                 if (adultCount >= 5)
-                    discount = priceWholeGroup * 0.2;
+                    discountAdult = (adultCount * PriceAdult) * 0.2;
+
+                discountTotal = discountAdult + discountChild;
 
                 //subtract discount from price for the whole group
-                priceWholeGroup -= discount;
+                priceWholeGroup -= discountTotal;
 
                 //update the pricePerGroupField and discount
                 txtTotalBill.Text = priceWholeGroup.ToString();
-                txtDiscount.Text = discount.ToString();
+                txtDiscount.Text = discountTotal.ToString();
 
                 //put focus after input back on input field
                 txtLeeftijd.Focus();
@@ -103,8 +111,16 @@ namespace KassasysteemZoo
                 //empty the input field
                 txtLeeftijd.Text = string.Empty;
 
+                //get grandtotal;
+                grandTotal = grandTotalHelp + priceWholeGroup;
 
-                    
+
+                txtGrandTotal.Text = grandTotal.ToString();
+
+                //calculate maps
+
+                maps = (decimal)totalPersonsCount / 4;
+                txtMaps.Text = Math.Ceiling(maps).ToString();
              
 
              
@@ -154,10 +170,13 @@ namespace KassasysteemZoo
             adultCount = 0;
             totalPersonsCount = 0;
             priceWholeGroup = 0;
-            discount = 0;
+            discountTotal = 0;
             fantaCount = 0;
             candyCount = 0;
             friesCount = 0;
+
+            grandTotalHelp = grandTotal;
+             
         }
 
 
